@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.5748171, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -361,14 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b445eab7ba00124da4649b740678c1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniturePrefabs:
-  - {fileID: 1680331146661270281, guid: c8aadb060818eba4395dc8692336b1f8, type: 3}
-  - {fileID: 815187252449837463, guid: bffe3d70bd3b0064995560b47cc6ebd8, type: 3}
-  - {fileID: 4759979723106269049, guid: 1cdfafe2a83a2b044a2713d6d21d292b, type: 3}
-  - {fileID: 2734460518545675995, guid: 1e9059b0b6ddc1c4db23ab4d9716dbe9, type: 3}
-  - {fileID: 9165546663001646035, guid: c6056395474f4bd4d8ce86d2221a36d1, type: 3}
-  - {fileID: 2327493548861579165, guid: cf9343717600ee14ca5f4a7a40a5af05, type: 3}
-  - {fileID: 5510260716176660788, guid: 4c093eca378dd524ea0d249d06a0f75c, type: 3}
+  furniturePrefabs: []
   spawnPoint: {fileID: 479876799}
   timeBetweenSpawns: 6
 --- !u!1001 &244984322
