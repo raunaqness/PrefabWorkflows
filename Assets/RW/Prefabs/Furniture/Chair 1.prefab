@@ -1,11 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!4 &2930417978654712812 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5888305314542875736, guid: e0a468a190e88664d8bf9d6f09a9a07d,
-    type: 3}
-  m_PrefabInstance: {fileID: 8727300824419440564}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4895649661749181690 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5888305314542875736, guid: e0a468a190e88664d8bf9d6f09a9a07d,
@@ -18,6 +12,18 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4390490042599254709}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &8234098472872100284 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 841420642658450183, guid: fd89985de17f4e941b02f5042a38f276,
+    type: 3}
+  m_PrefabInstance: {fileID: 8784332038258211515}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2930417978654712812 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5888305314542875736, guid: e0a468a190e88664d8bf9d6f09a9a07d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8727300824419440564}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &8234098471503781976 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 368245743329932985, guid: 8ef75dce74ef2994bb719e942b8b3313,
@@ -29,12 +35,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5888305314542875736, guid: e0a468a190e88664d8bf9d6f09a9a07d,
     type: 3}
   m_PrefabInstance: {fileID: 2590153159909062529}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &8234098472872100284 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 841420642658450183, guid: fd89985de17f4e941b02f5042a38f276,
-    type: 3}
-  m_PrefabInstance: {fileID: 8784332038258211515}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &9165546663001646035
 GameObject:
@@ -62,7 +62,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9165546663001646035}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.084, z: 0.252}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 8234098471503781976}
